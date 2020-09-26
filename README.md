@@ -1,1 +1,1 @@
-# SVP_2020
+## Society of Vertebrate Paleontology talk - Romer session
