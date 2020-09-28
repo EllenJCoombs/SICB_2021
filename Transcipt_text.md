@@ -5,8 +5,7 @@
 ## Cranial morphology in whales: 
 ## A study spanning the evolutionary history and diversity of the cetacean skull
 
-emo::ji("whale") 
-emo::ji("whale")
+:whale2: :whale:
 
 # SLIDE 1  
 
@@ -19,12 +18,12 @@ Please see my online profile or scan the QR code above if you would like a trans
 # SLIDE 2
 Before we get into the key methods and findings, let me give you a little context. 
 Cetacea is nested within the artiodactyls – the even toed ungulates which includes cows and pigs  
-50 million years ago, cetaceans looked like this – this is Pakicetus. They then rapidly began to adapt to an aquatic lifestyle – losing their hind limbs, whilst the nasals moved from the TIP of the snout to the TOP of the head
+50 million years ago, cetaceans looked like this – this is *Pakicetus*. They then rapidly began to adapt to an aquatic lifestyle – losing their hind limbs, whilst the nasals moved from the TIP of the snout to the TOP of the head
 
 My dataset represents the archaeocetes, or ancient whales of 50 million years ago such as Pakicetus and the Basilosarids (note the forwards position of the nasals on the older species on the right and the more posteriorly placed nasals in the younger skull on the left).
 
-39 million years ago, Cetacean split into two suborders. The mysticetes (or baleen whales) are represented by toothed specimens such as the Late Eocene Mystacodon selenensis (on the left) and Late Oligocene Janjucetus hunderi right through to the baleen whales we know today such as the blue whale. 
-The specious odontocetes (or toothed whales) are represented from the Oligocene by species such as Cotylocara macei and other xenorophids on the right here and on the left, Simocetus rayi, all the way through to extant odontocetes such as the killer whale.  
+39 million years ago, Cetacean split into two suborders. The mysticetes (or baleen whales) are represented by toothed specimens such as the Late Eocene *Mystacodon selenensis* (on the left) and Late Oligocene *Janjucetus hunderi* right through to the baleen whales we know today such as the blue whale. 
+The specious odontocetes (or toothed whales) are represented from the Oligocene by species such as *Cotylocara macei* and other xenorophids on the right here and on the left, *Simocetus rayi*, all the way through to extant odontocetes such as the killer whale.  
 
 
 # SLIDE 3
@@ -69,9 +68,9 @@ We found asymmetry in the odontocete skull and archaeocete skull, so I devised a
 I then did a Principal Component Analyses on data that had undergone Procrustes Superimposition – this means that the data are rotated, translated, and scaled so that we are only looking at shape.  
 
 We see that the suborders occupy distinct areas of the morphospace  
-The highest variation is seen in the length of the rostrum – from the brachycephalic, stubby faces of suction-feeding species like the Miocene Odobenocetops through to the dolichocephalic - long snouted fish-eating species including the fossil Eurhinodelphids and extant river dolphins. 
+The highest variation is seen in the length of the rostrum – from the brachycephalic, stubby faces of suction-feeding species like the Miocene *Odobenocetops* through to the dolichocephalic - long snouted fish-eating species including the fossil Eurhinodelphids and extant river dolphins. 
 
-The second axis of variation is found in the positioning of the nares – from closer to the tip of the snout in the earlier whales, like Pakicetus and Ambulocetus, through to the positioning of the nares high on the head in extant cetaceans. Note how the odontocetes occupy a large range of the morphospace.
+The second axis of variation is found in the positioning of the nares – from closer to the tip of the snout in the earlier whales, like *Pakicetus* and *Ambulocetus*, through to the positioning of the nares high on the head in extant cetaceans. Note how the odontocetes occupy a large range of the morphospace.
 
 
 # SLIDE 7 
