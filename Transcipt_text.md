@@ -1,12 +1,12 @@
 
 
-#Transcript to accompany Ellen Coombs’ Romer talk – SVP 2020
+## Transcript to accompany Ellen Coombs’ Romer talk – SVP 2020
 
-##Cranial morphology in whales: 
-##A study spanning the evolutionary history and diversity of the cetacean skull
+## Cranial morphology in whales: 
+# A study spanning the evolutionary history and diversity of the cetacean skull
 
 
-##SLIDE 1  
+# SLIDE 1  
 
 Hello, my name is Ellen Coombs and I am a PhD student at the Natural History Museum and University College London  
 
@@ -14,18 +14,18 @@ Today I am talking about morphological evolution of the whale skull in a study t
 
 Please see my online profile or scan the QR code above if you would like a transcript of this talk
 
-#SLIDE 2
+# SLIDE 2
 Before we get into the key methods and findings, let me give you a little context. 
 Cetacea is nested within the artiodactyls – the even toed ungulates which includes cows and pigs  
 50 million years ago, cetaceans looked like this – this is Pakicetus. They then rapidly began to adapt to an aquatic lifestyle – losing their hind limbs, whilst the nasals moved from the TIP of the snout to the TOP of the head
-My dataset represents the archaeocetes, or ancient whales of 50 million years ago such as Pakicetus and the Basilosarids (note the forwards position of the nasals on the older species on the right and the more posteriorly placed nasals in the younger skull on the left). 
+
+My dataset represents the archaeocetes, or ancient whales of 50 million years ago such as Pakicetus and the Basilosarids (note the forwards position of the nasals on the older species on the right and the more posteriorly placed nasals in the younger skull on the left).
+
 39 million years ago, Cetacean split into two suborders. The mysticetes (or baleen whales) are represented by toothed specimens such as the Late Eocene Mystacodon selenensis (on the left) and Late Oligocene Janjucetus hunderi right through to the baleen whales we know today such as the blue whale. 
 The specious odontocetes (or toothed whales) are represented from the Oligocene by species such as Cotylocara macei and other xenorophids on the right here and on the left, Simocetus rayi, all the way through to extant odontocetes such as the killer whale.  
 
 
-
-
-#SLIDE 3
+# SLIDE 3
 I started by looking at cranial morphology in cetaceans with the following hypotheses:  
 
 1. The cetacean suborders will occupy distinct areas of the morphospace 
@@ -41,7 +41,7 @@ Data for these ecological categories were taken from the literature and all deta
 A reminder of which of these two key hypotheses we are referring to is provided on the relevant slides throughout.  
 
  
-#SLIDE 4
+# SLIDE 4
 To help me answer these research questions, I travelled around the world collecting hundreds of 3D surface scans of whale skulls from both hemispheres, including this grey whale skull at the Smithsonian.  
 
 In total for this study I scanned 199 species from 121 genera and 42 families.  
@@ -51,7 +51,7 @@ The really exciting thing about this dataset, is, not only is it the largest of 
 On the right-hand side, you can see a breakdown of scan numbers and ages for this dataset  
 
 
-#SLIDE 5 
+# SLIDE 5 
 So, how did I collect the morphological data from these scans to quantify cranial morphology in cetaceans?  
 
 Using software called Checkpoint, I manually placed 123 fixed landmarks and 124 curves on each of the skulls.  
@@ -63,7 +63,7 @@ The mysticetes showed little asymmetry which meant I could landmark one half of 
 We found asymmetry in the odontocete skull and archaeocete skull, so I devised a separate protocol of landmarking all the asymmetric bones, like the face and rostrum, and then mirroring the landmarks and curves from symmetrical bones only.  
  
 
-#SLIDE 6  
+# SLIDE 6  
 I then did a Principal Component Analyses on data that had undergone Procrustes Superimposition – this means that the data are rotated, translated, and scaled so that we are only looking at shape.  
 
 We see that the suborders occupy distinct areas of the morphospace  
@@ -72,11 +72,11 @@ The highest variation is seen in the length of the rostrum – from the brachyce
 The second axis of variation is found in the positioning of the nares – from closer to the tip of the snout in the earlier whales, like Pakicetus and Ambulocetus, through to the positioning of the nares high on the head in extant cetaceans. Note how the odontocetes occupy a large range of the morphospace.
 
 
-#SLIDE 7 
+# SLIDE 7 
 We also see overlap in the occupation of shape space between the archaeocetes and the early Oligocene odontocetes and mysticetes as the suborders begin to move towards subclade-specific diversification of the rostrum and facial morphology 
 
 
-#SLIDE 8 
+# SLIDE 8 
 Now let’s look at rates of evolution in each of the bones of the skull for each of the suborders.  
 
 For these next couple of slides, hotter colours indicate higher rates.  
@@ -89,7 +89,7 @@ The mysticetes show a high rate of evolution in the parietal – as the skull ha
 Rates of evolution were lowest in the back and ventral back of the skull and results for disparity between the bones showed a similar pattern.  
 
 
-#SLIDE 9 
+# SLIDE 9 
 I then looked at rates of evolution across the whole skull using BayesTraits, where a Brownian Motion model with variable rates had the best model fit.  
 
 Don’t worry that you cannot see the species names in this phylogeny – it’s the same tree you saw earlier with additional archaeocete, mysticete, and odontocete examples represented by silhouettes.  
@@ -101,7 +101,7 @@ Further high rates in the odontocetes are seen in the mid and late Miocene, were
 The grey triangles seen throughout the phylogeny indicate the stem branches of clades with support for whole clade shifts in evolutionary rate. 
 
 
-#SLIDE 10  
+# SLIDE 10  
 Now we’ve seen how morphology has changed over time, let’s take a look at our second research area and investigate what might have influenced those changes in skull shape. 
 
 These images show some of the ecological variables I used, for example heterodonty, baleen, and several different feeding methods. 
@@ -113,7 +113,7 @@ We found that feeding method, diet, tooth type, echolocation ability and habitat
 I also ran these models using only extant data and got the same patterns of significance – please see my Github for details. 
 
 
-#SLIDE 11 
+# SLIDE 11 
 This brings me to the conclusions for our first research questions 
 that is, quantifying cranial morphology in cetaceans.
 
@@ -127,7 +127,7 @@ As hypothesized, bones associated with breathing and feeding, such as the nasals
 High rates of evolution and disparity in the skull are seen in the Late Oligocene – a period of rapid cetacean evolution and diversification and then again during the Mid-Late Miocene 
  
 
-#SLIDE 12 
+# SLIDE 12 
 And then with ecological influences on cranial morphology 
 
 I found that as well as the nares moving up the snout, and telescoping in the skull, the evolution of the whale skull is also largely driven by diet and related factors such as dentition and feeding method, as hypothesized. 
@@ -137,15 +137,14 @@ Habitat was also significant but as discussed it is hard to categorize so we int
 And further, that echolocation ability also significantly influences skull shape with cetaceans that can echolocate having asymmetric nasal and facial 
 Again, my previous work showed that there were shifts and jumps in cranial asymmetry in the Mid-Late Oligocene and Mid-Late Miocene.
  
-#SLIDE 13  
+# SLIDE 13  
 This leads to the final chapter of my PhD where I will model cranial diversity alongside climate.  
 
 My early analyses have shown that a model which tracks palaeotemperature has a better fit in explaining skull shape variation than Brownian motion and Early burst models  
 
 And to finish, we’re seeing those peaks in disparity and rate in the Mid-Oligocene and Mid-Miocene and it will be important to see how this compares to temperatures of the time  
- 
 
-#SLIDE 14  
+# SLIDE 14  
 Thank you for listening, and I welcome any questions.
   
 I would like to thank my collaborators and also past and present Goswami Lab members for their help. I am grateful for funding from NERC, the Palaeontological Association for funding vital data collection trips and to the SVP Jackson Travel grant. Thank you. 
