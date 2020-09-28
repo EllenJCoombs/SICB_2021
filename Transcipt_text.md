@@ -1,10 +1,11 @@
 
 
-## Transcript to accompany Ellen Coombs’ Romer talk – SVP 2020
+# Transcript to accompany Ellen Coombs’ Romer talk – SVP 2020
 
 ## Cranial morphology in whales: 
-# A study spanning the evolutionary history and diversity of the cetacean skull
+## A study spanning the evolutionary history and diversity of the cetacean skull
 
+emo::ji("whale") emo::ji("whale")
 
 # SLIDE 1  
 
@@ -136,6 +137,7 @@ Habitat was also significant but as discussed it is hard to categorize so we int
 
 And further, that echolocation ability also significantly influences skull shape with cetaceans that can echolocate having asymmetric nasal and facial 
 Again, my previous work showed that there were shifts and jumps in cranial asymmetry in the Mid-Late Oligocene and Mid-Late Miocene.
+ 
  
 # SLIDE 13  
 This leads to the final chapter of my PhD where I will model cranial diversity alongside climate.  
