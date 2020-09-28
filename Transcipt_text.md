@@ -20,7 +20,7 @@ Before we get into the key methods and findings, let me give you a little contex
 Cetacea is nested within the artiodactyls – the even toed ungulates which includes cows and pigs  
 50 million years ago, cetaceans looked like this – this is *Pakicetus*. They then rapidly began to adapt to an aquatic lifestyle – losing their hind limbs, whilst the nasals moved from the TIP of the snout to the TOP of the head
 
-My dataset represents the archaeocetes, or ancient whales of 50 million years ago such as Pakicetus and the Basilosarids (note the forwards position of the nasals on the older species on the right and the more posteriorly placed nasals in the younger skull on the left).
+My dataset represents the archaeocetes, or ancient whales of 50 million years ago such as *Pakicetus* and the Basilosarids (note the forwards position of the nasals on the older species on the right and the more posteriorly placed nasals in the younger skull on the left).
 
 39 million years ago, Cetacean split into two suborders. The mysticetes (or baleen whales) are represented by toothed specimens such as the Late Eocene *Mystacodon selenensis* (on the left) and Late Oligocene *Janjucetus hunderi* right through to the baleen whales we know today such as the blue whale. 
 The specious odontocetes (or toothed whales) are represented from the Oligocene by species such as *Cotylocara macei* and other xenorophids on the right here and on the left, *Simocetus rayi*, all the way through to extant odontocetes such as the killer whale.  
