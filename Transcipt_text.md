@@ -5,7 +5,8 @@
 ## Cranial morphology in whales: 
 ## A study spanning the evolutionary history and diversity of the cetacean skull
 
-emo::ji("whale") emo::ji("whale")
+emo::ji("whale") 
+emo::ji("whale")
 
 # SLIDE 1  
 
