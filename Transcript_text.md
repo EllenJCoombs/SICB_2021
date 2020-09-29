@@ -68,7 +68,7 @@ We found asymmetry in the odontocete skull and archaeocete skull, so I devised a
 I then did a Principal Component Analyses on data that had undergone Procrustes Superimposition – this means that the data are rotated, translated, and scaled so that we are only looking at shape.  
 
 We see that the suborders occupy distinct areas of the morphospace  
-The highest variation is seen in the length of the rostrum – from the brachycephalic, stubby faces of suction-feeding species like the Miocene *Odobenocetops* through to the dolichocephalic - long snouted fish-eating species including the fossil Eurhinodelphids and extant river dolphins. 
+The highest variation is seen in the length of the rostrum – from the brachycephalic, stubby faces of suction-feeding species like *Odobenocetops* through to the dolichocephalic - long snouted fish-eating species including the fossil Eurhinodelphids and extant river dolphins. 
 
 The second axis of variation is found in the positioning of the nares – from closer to the tip of the snout in the earlier whales, like *Pakicetus* and *Ambulocetus*, through to the positioning of the nares high on the head in extant cetaceans. Note how the odontocetes occupy a large range of the morphospace.
 
