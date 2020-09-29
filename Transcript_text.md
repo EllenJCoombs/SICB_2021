@@ -149,5 +149,5 @@ And to finish, we’re seeing those peaks in disparity and rate in the Mid-Oligo
 # SLIDE 14  
 Thank you for listening, and I welcome any questions.
   
-I would like to thank my collaborators and also past and present Goswami Lab members for their help. I am grateful for funding from NERC, the Palaeontological Association for funding vital data collection trips and to the SVP Jackson Travel grant. Thank you. 
+I would like to thank my supervisors, collaborators, and also past and present Goswami Lab members for their help. I am grateful for funding from NERC, the Palaeontological Association for funding vital data collection trips and to the SVP Jackson Travel grant. Thank you. 
  
