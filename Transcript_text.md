@@ -109,7 +109,7 @@ These images show some of the ecological variables I used, for example heterodon
 
 Whales vary in size from the 1m long Vaquita to the 30m blue whale and unsurprisingly allometry (or shape related to size) is a significant aspect of skull shape variation. Because of this, I corrected for allometry and for phylogeny (that is the phylogenetic relatedness between species) throughout my analyses. 
 
-We found that feeding method, diet, tooth type, echolocation ability and habitat all influenced skull shape. Habitat was more difficult to categorize, given some extant cetaceans migrate thousands of miles, or are conspicuous deep divers. 
+We found that feeding method, diet, tooth type, echolocation ability and habitat all influenced skull shape. Habitat was more difficult to categorize, given some extant cetaceans migrate thousands of miles, or are inconspicuous deep divers. 
 
 I also ran these models using only extant data and got the same patterns of significance – please see my Github for details. 
 
