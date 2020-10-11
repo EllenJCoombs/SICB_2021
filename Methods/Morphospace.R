@@ -48,7 +48,7 @@ ylab('PC2 (11.9%)') +
 geom_point(aes(size = sum.radii)) +
 theme_classic() +
 #geom_text(aes(label= ï..), hjust=1, vjust=2) #with numbers of specimens 
-#geom_text_repel(aes(label = test2$ï..id)) #with numbers of specimens repelled 
+#geom_text_repel(aes(label = test2$id)) #with numbers of specimens repelled 
 
 a 
 #a + scale_x_reverse() #If you want to reverse axis
