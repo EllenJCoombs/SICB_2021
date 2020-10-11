@@ -47,7 +47,7 @@ PCA=plotTangentSpace(all_array, axis1=1, axis2=2, label=dimnames(data)[[3]])
 ###=========== LOADING DATA SET 1: WHOLE LANDMAKRED SKULL 
 #Read in landmarks manually placed on the whole skull 
 
-ntaxa<-172 ## number of specimens (extant only) - NB can also put this in the code below (x,y,z) 
+ntaxa<-199 ## number of specimens (extant only) - NB can also put this in the code below (x,y,z) 
 #data set .pts from Checkpoint
 
 ptslist<-dir(pattern='.pts',recursive=T)
@@ -126,7 +126,7 @@ setwd("X:xxxxxxx/xxxxxx")
 #NB the plys have been transformed to ASCII (from binary) so that landmarks can be visualised on the mesh 
 #See code 'Binary_ASCII_ply.R" if needed for this step
 
-ntaxa<-172 ## number of specimens (extant only) - NB can also put this in the code below (x,y,z) 
+ntaxa<-199 ## number of specimens (extant only) - NB can also put this in the code below (x,y,z) 
 #data set .pts from Checkpoint
 
 ptslist<-dir(pattern='.pts',recursive=T)
