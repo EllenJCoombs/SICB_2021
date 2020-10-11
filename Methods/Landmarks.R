@@ -8,6 +8,8 @@ library(geomorph)
 library(paleomorph)
 
 #Reading in landmarks only - these are .pts files
+#ptsarray is the shape data 
+#MirroredAC is the mirrored landmarks
 ###=========== LOADING DATA SET 1: WHOLE LANDMARKED SKULL 
 
 setwd("X:xxxxxxx/xxxxxx") 
