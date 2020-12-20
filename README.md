@@ -1,4 +1,4 @@
-## Society for Integrative and Comparative Biology
+## Society for Integrative and Comparative Biology: DVM Best Student Paper: D. Dwight Davis Award
 
 # Influences on cranial morphology in whales:
 # Investigating the evolutionary history and diversity of the cetacean skull 
