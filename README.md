@@ -1,6 +1,8 @@
-## Society of Vertebrate Paleontology talk - Romer session
+## Society for Integrative and Comparative Biology
 
-# Cranial morphology in whales: A study spanning the evolutionary history and diversity of the cetacean skull 
+# Influences on cranial morphology in whales:
+# Investigating the evolutionary history and diversity of the cetacean skull 
+
 
 Supervisors: Prof. Anjali Goswami, Dr Natalie Cooper, Prof. Bridget Wade, and Richard Sabin
 
