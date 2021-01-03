@@ -2,12 +2,13 @@
 
 # Transcript to accompany COOMBS SICB 2021
 
-## Cranial morphology in whales: 
-## A study spanning the evolutionary history and diversity of the cetacean skull
+## Influences on cranial morphology in whales:
+## Investigating the evolutionary history and diversity of the cetacean skull 
+
 
 :whale2: :whale:
 
-Transcript to accompany Ellen Coombs’ Society of Integrative and Comparative Biology: DVM Best Student Paper D. Dwight Davos Award  
+Transcript to accompany Ellen Coombs’ Society of Integrative and Comparative Biology: DVM Best Student Paper D. Dwight Davis Award  
 
 ## SLIDE 1    
 
