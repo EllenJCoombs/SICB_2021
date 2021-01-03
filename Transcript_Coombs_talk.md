@@ -1,6 +1,6 @@
 
 
-# Transcript to accompany Ellen Coombs’ SICB 2021
+# Transcript to accompany COOMBS SICB 2021
 
 ## Cranial morphology in whales: 
 ## A study spanning the evolutionary history and diversity of the cetacean skull
