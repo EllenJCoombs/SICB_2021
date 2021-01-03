@@ -154,4 +154,4 @@ The Late Eocene and Mid-Late Oligocene are known periods of rapid cetacean evo
 
 Thank you for listening, and I welcome any questions.    
 
-I would like to thank my supervisors and collaborators and also past and present Goswami Lab members for their help. I am grateful for funding from NERC, the Palaeontological association and the UCL Bogue Fellowship. Thank you. 
+I would like to thank my supervisors and collaborators and also past and present Goswami Lab members for their help. I am grateful for funding from NERC, the Palaeontological association, and the UCL Bogue Fellowship. Thank you. 
